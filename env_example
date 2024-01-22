@@ -1,0 +1,11 @@
+DB_NAME=shop_db
+DB_USER=ertay
+DB_PASSWORD=1
+DB_HOST=db
+DB_PORT=5432
+
+
+EMAIL_HOST_USER=ertaiesen05@gmail.com
+EMAIL_HOST_PASSWORD=jzixcxnjkftamewa 
+EMAIL_PORT= 587
+EMAIL_USE_TLS=True
